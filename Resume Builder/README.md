@@ -1,10 +1,26 @@
-![React AI Resume Builder](https://github.com/rrs301/AI-Resume-Builder/assets/20216436/0a78231c-754e-4f2e-94b0-ae9474cbf613)
+# AI Resume Builder
 
-# React + Vite
+**Description:**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered resume builder that helps users create professional resumes tailored to their specific needs. It leverages advanced language models to generate relevant content and suggestions.
 
-Currently, two official plugins are available:
+**Technologies:**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Vite.js
+* React
+* TensorFlow.js
+* Bootstrap
+
+**Installation:**
+
+1. Clone the repository: `git clone https://github.com/yourusername/ai-resume-builder.git`
+2. Install dependencies: `npm install`
+3. Run the development server: `npm run dev`
+
+**Usage:**
+
+1. Open the project in your browser.
+2. Enter your personal information and job preferences.
+3. The AI will generate a customized resume draft.
+4. Review and edit the content as needed.
+5. Download the final resume in PDF format.
